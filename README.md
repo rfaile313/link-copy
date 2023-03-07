@@ -1,6 +1,8 @@
 # link-copy
 
-### Add-on for Firefox https://addons.mozilla.org/en-US/firefox/addon/link-copy/
+### Add-on for Firefox 
+
+https://addons.mozilla.org/en-US/firefox/addon/link-copy/
 
 Adds a "Copy Link Address" context menu item in firefox for links, and makes it accessible with hotkey "A"
 
